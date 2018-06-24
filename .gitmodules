@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/littlebot-wordpress-api"]
+	path = wp-content/themes/littlebot-wordpress-api
+	url = git@github.com:justinwhall/littlebot-wordpress-api.git
